@@ -6,10 +6,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
+  "homepage": "https://github.com/bhadreshp05/full-screen-image-slider",
   "keywords": [],
-  "author": "",
+  "author": "Bhadresh Patel",
   "license": "ISC",
   "description": "",
   "dependencies": {
